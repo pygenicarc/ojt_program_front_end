@@ -1,0 +1,10 @@
+learning links
+for HTML - https://www.w3schools.com/html/default.asp
+for CSS - https://www.w3schools.com/css/default.asp
+for BOOTSTARP - https://www.w3schools.com/bootstrap5/index.php
+for documentations - https://www.w3.org/
+for documentations - https://www.w3.org/
+for css documentations - https://cssreference.io/
+for online exercise - https://codepen.io/
+for online exercise - https://jsfiddle.net/
+
